@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.blueGrey[900],
                   ),
                   title: Text(
-                    '+1 (501)-398-3945',
+                    '+1 (234)-567-8910',
                     style: TextStyle(
                       color: Colors.blueGrey[900],
                       fontFamily: 'MonteserratAlternates',
@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                     Icons.email,
                     color: Colors.blueGrey[900],
                   ),
-                  title: Text('omekara.samdavis@philander.edu',
+                  title: Text('omekara.samdavis@email.com',
                       style: TextStyle(
                         color: Colors.blueGrey[900],
                         fontFamily: 'MontserratAlternates',
